@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/leetspeak/leetspeak.Solution/leetspeak/bin/Debug/netcoreapp2.2/leetspeak.deps.json
+/Users/Guest/Desktop/leetspeak/leetspeak.Solution/leetspeak/bin/Debug/netcoreapp2.2/leetspeak.dll
+/Users/Guest/Desktop/leetspeak/leetspeak.Solution/leetspeak/bin/Debug/netcoreapp2.2/leetspeak.pdb
+/Users/Guest/Desktop/leetspeak/leetspeak.Solution/leetspeak/obj/Debug/netcoreapp2.2/leetspeak.csprojAssemblyReference.cache
+/Users/Guest/Desktop/leetspeak/leetspeak.Solution/leetspeak/obj/Debug/netcoreapp2.2/leetspeak.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/leetspeak/leetspeak.Solution/leetspeak/obj/Debug/netcoreapp2.2/leetspeak.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/leetspeak/leetspeak.Solution/leetspeak/obj/Debug/netcoreapp2.2/leetspeak.AssemblyInfo.cs
+/Users/Guest/Desktop/leetspeak/leetspeak.Solution/leetspeak/obj/Debug/netcoreapp2.2/leetspeak.dll
+/Users/Guest/Desktop/leetspeak/leetspeak.Solution/leetspeak/obj/Debug/netcoreapp2.2/leetspeak.pdb
+/Users/Guest/Desktop/leetspeak/leetspeak.Solution/leetspeak/bin/Debug/netcoreapp2.2/leetspeak.runtimeconfig.json
+/Users/Guest/Desktop/leetspeak/leetspeak.Solution/leetspeak/bin/Debug/netcoreapp2.2/leetspeak.runtimeconfig.dev.json
